@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @antoniomattar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer Science at Aix-Marseille University
-- 💞️ I’m looking to collaborate on 
-- 🎒 Till now, I can code in Python, Java and Javascript...
+- 🌱 I’m currently studying Computer Science and Mathematics (Double Major) at Aix-Marseille University
+- 💞️ I’m looking to collaborate on small startups projects.
+- 🎒 Till now, I can code in Python, Java, Javascript and Bash...
 - 📫 How to reach me antoniomattar123@icloud.com
 
 <!---
