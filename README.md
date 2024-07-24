@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @antoniomattar
-- 👀 I’m interested in programming, optimisation, cryptography, web development...
-- 📚 I studied 2 years of Computer Science and Mathematics (Double Major) at Aix-Marseille University.
+- 👀 I’m interested in Programming , Optimisation, Cryptography, Web Development...
 - 📚 I’m studying now Software Engineering at ENSIMAG - École Nationale Supérieure Informatique Mathématiques Appliqués Grenoble (Top French Software Engineering School) .
+- 📚 I studied 2 years of Computer Science and Mathematics (Double Major) at Aix-Marseille University.
 - 💪 I’m looking to collaborate on small startups projects.
 - 🎒 Mastered Technologies : Java, C, Python, Javascript, R, VHDL, Bash...
-- 👨‍💻 Check my portfolio on : [antoniomattar.co](https://www.antoniomattar.co/)
+- 👨‍💻 Check my portfolio on : [antoniomattar.com](https://www.antoniomattar.com/)
 - 📫 How to reach me antoniomattar123@icloud.com
 
 <!---
