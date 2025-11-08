@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @antoniomattar
-- 👀 I’m interested in Programming , Optimisation, Cryptography, Web Development...
-- 📚 I’m studying now Software Engineering at ENSIMAG - École Nationale Supérieure Informatique Mathématiques Appliqués Grenoble (Top French Software Engineering School) .
-- 📚 I studied 2 years of Computer Science and Mathematics (Double Major) at Aix-Marseille University.
-- 💪 I’m looking to collaborate on small startups projects.
-- 🎒 Mastered Technologies : Java, C, Python, Javascript, R, VHDL, Bash...
-- 👨‍💻 Check my portfolio on : [antoniomattar.com](https://www.antoniomattar.com/)
-- 📫 How to reach me antoniomattar123@icloud.com
+# 👋 Hi, I’m Antonio Mattar
+
+- 💻 I’m a final-year **Software Engineering student** at **Grenoble INP – ENSIMAG**.  
+- 💼 I previously interned at **Murex (Paris)**, contributing to the **Reference Data Service** within the core Java backend.  
+- 🚀 I’ll soon be joining **Datadog (Paris) 🐶** as a **Software Engineering Intern**, working on **Logs Forwarding**.  
+- 🎓 Before ENSIMAG, I completed a **Double Major in Computer Science and Mathematics** at **Aix-Marseille University**.  
+- ⚙️ I’m passionate about **Scalability**, **Performance Optimization**, **System Design**, and **Cryptography**.  
+- 🤝 I enjoy collaborating on **startup projects** and building **reliable, high-performance architectures**.  
+- 🌍 Check out my portfolio: [antoniomattar.com](https://www.antoniomattar.com/)  
+- 📫 Reach me at: **antoniomattar123@icloud.com**
+
+---
 
 <!---
 antoniomattar/antoniomattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
